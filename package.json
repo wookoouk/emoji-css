@@ -1,7 +1,7 @@
 {
   "name": "emoji-css",
   "version": "1.0.0",
-  "description": "An easy way to include emoji in your HTML. Inspired by [Font Awesome](http://fortawesome.github.io/Font-Awesome/); site ripped off of [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).",
+  "description": "An easy way to include emoji in your HTML.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
