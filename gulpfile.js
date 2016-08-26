@@ -11,7 +11,7 @@ gulp.task('sprite', function () {
                 algorithm: 'binary-tree',
                 cssTemplate: './src/handlebarsStr.css.handlebars',
                 cssVarMap: function (sprite) {
-                    sprite.name = 's-' + sprite.name;
+                    sprite.name = 'em-' + sprite.name;
                     sprite.name = sprite.name.replace('+', '--');
                 }
             }));
