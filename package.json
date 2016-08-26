@@ -1,0 +1,23 @@
+{
+  "name": "emoji-css",
+  "version": "1.0.0",
+  "description": "An easy way to include emoji in your HTML. Inspired by [Font Awesome](http://fortawesome.github.io/Font-Awesome/); site ripped off of [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wookoouk/emoji-css.git"
+  },
+  "author": "Martin Page",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookoouk/emoji-css/issues"
+  },
+  "homepage": "https://github.com/wookoouk/emoji-css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.2.1"
+  }
+}

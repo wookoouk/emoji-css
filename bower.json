@@ -1,0 +1,19 @@
+{
+  "name": "emoji-css",
+  "description": "An easy way to include emoji in your HTML. Inspired by [Font Awesome](http://fortawesome.github.io/Font-Awesome/); site ripped off of [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).",
+  "main": "dist/emoji.css",
+  "authors": [
+    "Martin Page"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wookoouk/emoji-css",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public",
+    "src",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

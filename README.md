@@ -5,9 +5,8 @@ An easy way to include emoji in your HTML. Inspired by [Font Awesome](http://for
 ## Running Locally
 
 ```bash
-bundle
-bundle exec jekyll serve -w
-open http://localhost:4000
+npm install
+gulp
 ```
 
 ## See Also
